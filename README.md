@@ -20,10 +20,14 @@ To run this project, you will need the following libraries installed:
 - Python 3.x
 - Pandas
 - NumPy
+- Pickle (Model loading)
 - Scikit-learn
 - NLTK (Natural Language Toolkit)
-- BeautifulSoup (for web scraping, if required)
-- Matplotlib and Seaborn (for data visualization)
+- BeautifulSoup (Web scraping)
+- Wordcloud
+- SQLalchemy
+- Pymongo
+- Matplotlib (for data visualization)
 
 
 You can install all dependencies by running:
@@ -55,6 +59,7 @@ For sentiment analysis, several machine learning models can be used, including:
 
 - Logistic Regression
 - Support Vector Machine (SVM)
+- K-nearest neighbor
 
 The model_training.py script contains the process of training the model. It includes:
 
