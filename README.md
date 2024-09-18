@@ -1,6 +1,7 @@
 # Sentiment Analysis on Hotel Reviews
 ## Project Overview
-This project focuses on performing sentiment analysis on hotel reviews. The goal is to collect, clean, and analyze review data to develop a machine learning model that can predict the sentiment (positive, negative, or neutral) of the reviews. The project involves three key stages: data collection, data cleaning, and building a sentiment analysis machine learning model.
+This project focuses on performing sentiment analysis on hotel reviews. The goal is to collect, clean, and analyze review data to develop a machine learning model that can predict the sentiment (positive, negative, or neutral) of the reviews. The project involves four key stages: data collection, data cleaning, building a sentiment analysis machine learning model and visualizing the dataset in a map
+!Hotels_Map(./docs/visualization-sample.png?raw=true "Title")
 
 ## Table of Contents
 1. Project Overview
