@@ -77,31 +77,6 @@ After training, the model is evaluated using various metrics:
 - F1-Score
 - Confusion Matrix
 
-## How to Run
-Collect Data: If you don’t have a dataset, collect it using data_collection.py.
-Clean Data: Run the data_cleaning.py script to prepare the data.
-EDA: Perform Exploratory Data Analysis with eda.py.
-Train Model: Train the model using model_training.py.
-Evaluate: Evaluate model performance with evaluation.py.
-File Structure
-bash
-Copy code
-├── data/
-│   ├── raw_reviews.csv          # Raw data
-│   ├── cleaned_reviews.csv      # Cleaned data
-├── models/
-│   ├── sentiment_model.pkl      # Trained model
-├── notebooks/
-│   ├── eda.ipynb                # EDA notebook
-│   ├── model_training.ipynb     # Model training notebook
-├── scripts/
-│   ├── data_collection.py       # Script for data collection
-│   ├── data_cleaning.py         # Script for data cleaning
-│   ├── eda.py                   # Script for EDA
-│   ├── model_training.py        # Script for training the model
-│   ├── evaluation.py            # Script for model evaluation
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
 Contributors
-Your Name (your_email@example.com)
+Hugo Villanueva (hvilladuque@gmail.com)
 Feel free to open an issue or contribute to the project!
