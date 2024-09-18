@@ -1,0 +1,24 @@
+# Core Python Version
+python_version >= 3.6
+
+# Data Manipulation Libraries
+pandas==1.5.3
+numpy==1.24.2
+
+# Machine Learning and Model Loading
+scikit-learn==1.2.2
+pickle5==0.0.12  # For model loading/saving
+
+# NLP and Text Processing
+nltk==3.8.1
+
+# Web Scraping
+beautifulsoup4==4.11.1
+
+# Visualization
+matplotlib==3.7.1
+wordcloud==1.8.2.2
+
+# Database
+sqlalchemy==2.0.9
+pymongo==4.3.3
