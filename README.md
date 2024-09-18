@@ -25,6 +25,7 @@ To run this project, you will need the following libraries installed:
 - NLTK (Natural Language Toolkit)
 - BeautifulSoup (Web scraping)
 - Wordcloud
+- Keras
 - SQLalchemy
 - Pymongo
 - Matplotlib (for data visualization)
