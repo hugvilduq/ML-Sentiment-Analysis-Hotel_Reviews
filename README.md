@@ -4,7 +4,7 @@ This project focuses on performing sentiment analysis on hotel reviews. The goal
 
 ![Hotels_Map](./docs/visualization-sample.png?raw=true "Title")
 
-## Table of Contents
+## Table of Contents 
 1. Project Overview
 2. Requirements
 3. Data Collection
