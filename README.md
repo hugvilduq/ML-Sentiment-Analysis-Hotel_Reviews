@@ -11,7 +11,7 @@ This project focuses on performing sentiment analysis on hotel reviews. The goal
 4. Data Cleaning
 5. Exploratory Data Analysis (EDA)
 6. Model Training
-7. Evaluation
+7. Evaluation 
 8. How to Run
 9. File Structure
 10. Contributors
