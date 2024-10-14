@@ -6,7 +6,7 @@ This project focuses on performing sentiment analysis on hotel reviews. The goal
 
 ## Table of Contents 
 1. Project Overview
-2. Requirements
+2. Requirements 
 3. Data Collection
 4. Data Cleaning
 5. Exploratory Data Analysis (EDA)
